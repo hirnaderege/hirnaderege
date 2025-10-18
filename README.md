@@ -1,27 +1,29 @@
-# Hi there, I'm Hirna 👋
+# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=000000&width=435&separator=%3C&lines=hello!+i'm+Hirna++;))](https://git.io/typing-svg)
+<div align="center">
 
-## About Me
+# about me...
 
-I am a third-year Computer Science student at Seattle University! I am passionate about the intersection of healthcare and technology and hope to make a positive impact on the world through those avenues!
+```javascript
+const me = {
+  pronouns: "she" | "her",
+  code: [C++, C#, Python, JavaScript, HTML, CSS, CUDA, F#],
+  tools: [Git, VSCode, Rider, Clion],
+  techCommunities: {
+                        member: "Girls Who Code",
+                        attendee: "CodePath",
+                        Speaker: "Association of Computing Machinery - SU"
+                      },
+ challenge: "I am building a Electronic Health Record (EHR) System!"
+}
+```
 
+## 💼 projects im fond of <3
 
-## 🔧 Technologies & Tools
+### [🚀 Research](https://github.com/hirnaderege/research)
+![Stars](https://img.shields.io/github/stars/hirnaderege/research?style=flat-square)
+![Language](https://img.shields.io/github/languages/top/hirnaderege/research?style=flat-square)
+![Last Commit](https://img.shields.io/github/last-commit/hirnaderege/research?style=flat-square)
 
-- **Languages:** C++, C#, Python, JavaScript, HTML, CSS, CUDA, F#
-- **Tools:** Git, VSCode, Rider, Clion
-- **Databases:** MongoDB, MySQL
-
-## 🌱 Currently Learning
-
-[What technologies or skills are you currently working on?]
-
-## 💼 Projects
-
-Here are some projects I'm proud of:
-
-- **[Project Name](link-to-repo)** - Brief description of what it does
-- **[Project Name](link-to-repo)** - Brief description of what it does
-- **[Project Name](link-to-repo)** - Brief description of what it does
 
 ## 📫 How to Reach Me
 
@@ -42,6 +44,3 @@ Here are some projects I'm proud of:
 ---
 
 💡 *Feel free to reach out if you want to collaborate on a project or just chat about tech!*
-
-
-<img src="https://github.com/roxiomontes/roxiomontes/blob/main/test1.gif"/>
