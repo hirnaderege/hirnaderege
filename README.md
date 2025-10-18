@@ -14,4 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<img src="[YOUR_VERCEL_PROJECT_DOMAIN]/[METHOD]?username=[https://www.linkedin.com/in/hirna-derege-399977227/]" />
+
+
 [![Hirna's GitHub stats](https://github-readme-stats.vercel.app/api?username=hirnaderege)](https://github.com/anuraghazra/github-readme-stats)
