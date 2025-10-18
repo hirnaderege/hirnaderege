@@ -1,5 +1,4 @@
 # [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=000000&width=435&separator=%3C&lines=hello!+i'm+Hirna++;))](https://git.io/typing-svg)
-<div align="center">
 
 # about me...
 
@@ -19,10 +18,7 @@ const me = {
 
 ## 💼 projects im fond of <3
 
-### [🚀 Research](https://github.com/hirnaderege/research)
-![Stars](https://img.shields.io/github/stars/hirnaderege/research?style=flat-square)
-![Language](https://img.shields.io/github/languages/top/hirnaderege/research?style=flat-square)
-![Last Commit](https://img.shields.io/github/last-commit/hirnaderege/research?style=flat-square)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=hirnaderege&repo=research)](https://github.com/hirnaderege/research)
 
 
 ## 📫 How to Reach Me
