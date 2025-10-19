@@ -25,8 +25,8 @@ const me = {
 :grey_exclamation:`how to reach me!`
 
 - Email: hirnadereg@gmail.com
-- LinkedIn: [hirnaderege](https://www.linkedin.com/in/hirna-derege-399977227/)
-- Portfolio: [yourwebsite.com](https://yourwebsite.com)
+- LinkedIn: [linkedin.com/hirnaderege](https://www.linkedin.com/in/hirna-derege-399977227/)
+- Portfolio: https://hirnaderege.github.io/portfolio/
 
 :grey_exclamation: `GitHub stats`
 
