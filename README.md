@@ -1,6 +1,6 @@
-# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=000000&width=435&separator=%3C&lines=hello!+i'm+Hirna++;))](https://git.io/typing-svg)
+# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=000000&width=435&separator=%3C&lines=hello!+i'm+Hirna++;)](https://git.io/typing-svg)
 
-# about me...
+### about me...
 
 ```javascript
 const me = {
@@ -19,6 +19,7 @@ const me = {
 ## 💼 projects im fond of <3
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=hirnaderege&repo=research)](https://github.com/hirnaderege/research)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=hirnaderege&repo=Allerhins)](https://github.com/hirnaderege/Allerhins)
 
 
 ## 📫 How to Reach Me
@@ -32,9 +33,6 @@ const me = {
 
 [![Hirna's GitHub stats](https://github-readme-stats.vercel.app/api?username=hirnaderege)](https://github.com/anuraghazra/github-readme-stats)
 
-## ⚡ Fun Fact
-
-[Share something interesting about yourself!]
 
 
 ---
