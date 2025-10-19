@@ -26,7 +26,6 @@ const me = {
 
 - Email: hirnadereg@gmail.com
 - LinkedIn: [hirnaderege](https://www.linkedin.com/in/hirna-derege-399977227/)
-- Twitter: [@yourhandle](https://twitter.com/yourhandle)
 - Portfolio: [yourwebsite.com](https://yourwebsite.com)
 
 :grey_exclamation: `GitHub stats`
