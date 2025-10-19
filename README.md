@@ -29,7 +29,7 @@ const me = {
 - Twitter: [@yourhandle](https://twitter.com/yourhandle)
 - Portfolio: [yourwebsite.com](https://yourwebsite.com)
 
-`### :grey_exclamation: GitHub Stats`
+:grey_exclamation: `GitHub stats`
 
 [![Hirna's GitHub stats](https://github-readme-stats.vercel.app/api?username=hirnaderege)](https://github.com/anuraghazra/github-readme-stats)
 
