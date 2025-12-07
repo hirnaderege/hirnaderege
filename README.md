@@ -28,6 +28,7 @@ const me = {
 - Portfolio: https://hirnaderege.github.io/portfolio/
 
 `GitHub stats`
+
 [![Hirna's GitHub stats](https://github-readme-stats.vercel.app/api?username=hirnaderege)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
