@@ -29,8 +29,7 @@ const me = {
 
 `GitHub stats`
 
-[![Hirna's GitHub stats](https://github-readme-stats.vercel.app/api?username=hirnaderege)](https://github.com/anuraghazra/github-readme-stats)
-
+[![Hirna's GitHub stats](https://github-stats-extended.vercel.app/api?username=hirnaderege)](https://github.com/stats-organization/github-stats-extended)
 ---
 
 💡 *Feel free to reach out if you want to collaborate on a project or just chat about tech!*
