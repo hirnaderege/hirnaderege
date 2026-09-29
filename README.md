@@ -18,7 +18,7 @@ const me = {
 `projects im fond of <3`
 
 [![hirnaderege/research's GitHubCard](https://githubcard.com/hirnaderege/research.svg?d=aA_iznUXHyv5)](https://githubcard.com/hirnaderege/research/card?utm_source=github&utm_medium=readme)
-![GitHub Repo Card](https://githubcard.com/hirnaderege/research)
+![GitHub Repo Card](https://githubcard.com/hirnaderege/research.svg)
 
 `how to reach me!`
 
