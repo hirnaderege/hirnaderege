@@ -17,9 +17,8 @@ const me = {
 
 `projects im fond of <3`
 
-[![ReadMe Card]](https://github.com/hirnaderege/research)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=hirnaderege&repo=SafeChart)](https://github.com/hirnaderege/SafeChart)
-
+![GitHub Repo Card](https://githubcard.com/hirnaderege/portfolio)
+![GitHub Repo Card](https://githubcard.com/hirnaderege/research)
 
 `how to reach me!`
 
