@@ -16,7 +16,7 @@ const me = {
 ```
 
 `projects im fond of <3`
-
+[my capstone presentation!](https://www.youtube.com/watch?v=59fIy2skrQ4)
 [![hirnaderege/anthill - GitHub](https://gh-card.dev/repos/hirnaderege/anthill.svg)](https://github.com/hirnaderege/anthill)
 [![hirnaderege/research - GitHub](https://gh-card.dev/repos/hirnaderege/research.svg)](https://github.com/hirnaderege/research)
 
